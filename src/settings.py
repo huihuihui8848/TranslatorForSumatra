@@ -1,0 +1,4 @@
+SUMATRA_CLASS_NAME = 'SUMATRA_PDF_FRAME'
+TARGET_LANG = 'ZH'
+
+DEEPL_KEY = ''  # key for deepl api
